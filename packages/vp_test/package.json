@@ -1,6 +1,6 @@
 {
   "name": "@abhaykumar01234/vp_test",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "private": true,
   "dependencies": {
     "@abhaykumar01234/shadowizard": "^1.1.0",
