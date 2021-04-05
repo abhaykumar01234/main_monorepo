@@ -1,6 +1,6 @@
 {
   "name": "@abhaykumar01234/vp_test",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "dependencies": {
     "@abhaykumar01234/shadowizard": "^1.1.0",
     "@testing-library/jest-dom": "^5.11.4",
@@ -37,7 +37,6 @@
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/abhaykumar01234/vp_test.git"
@@ -53,4 +52,3 @@
   },
   "homepage": "https://github.com/abhaykumar01234/vp_test#readme"
 }
-
