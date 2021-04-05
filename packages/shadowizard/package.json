@@ -1,0 +1,22 @@
+{
+  "name": "@abhay/shadowizard",
+  "version": "1.0.0",
+  "description": "Add awesome shadows for the non-designer",
+  "main": "index.js",
+  "keywords": [
+    "shadows"
+  ],
+  "author": "Abhay Kumar",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhaykumar01234/shadowizardy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/abhaykumar01234/shadowizardy/issues"
+  },
+  "homepage": "https://github.com/abhaykumar01234/shadowizardy#readme"
+}
