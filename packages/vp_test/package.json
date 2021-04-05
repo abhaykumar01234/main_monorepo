@@ -1,7 +1,6 @@
 {
   "name": "@abhaykumar01234/vp_test",
   "version": "1.1.1",
-  "private": true,
   "dependencies": {
     "@abhaykumar01234/shadowizard": "^1.1.0",
     "@testing-library/jest-dom": "^5.11.4",
@@ -35,5 +34,23 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhaykumar01234/vp_test.git"
+  },
+  "keywords": [
+    "React",
+    "repo"
+  ],
+  "author": "Abhay Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhaykumar01234/vp_test/issues"
+  },
+  "homepage": "https://github.com/abhaykumar01234/vp_test#readme"
 }
+
