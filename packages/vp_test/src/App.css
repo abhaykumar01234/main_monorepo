@@ -3,7 +3,8 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 200px;
+  width:200px;
   pointer-events: none;
 }
 
@@ -11,6 +12,11 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+
+.img-bg{
+
+  padding: 1rem;
 }
 
 .App-header {
