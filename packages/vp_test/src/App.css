@@ -15,8 +15,11 @@
 }
 
 .img-bg{
-
   padding: 1rem;
+}
+
+.img-bg img{
+  margin: 0 .5rem;
 }
 
 .App-header {
