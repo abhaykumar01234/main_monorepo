@@ -21,7 +21,7 @@ function App() {
           <img src="https://via.placeholder.com/250x200.png?text=image3" alt="image3" className="shadowizard" />
         </div>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Lerna POC shadowizard
         </p>
         <a
           className="App-link"
