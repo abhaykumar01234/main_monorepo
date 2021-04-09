@@ -1,8 +1,8 @@
 {
   "name": "@abhaykumar01234/vp_test",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "dependencies": {
-    "@abhaykumar01234/shadowizard": "^1.1.4",
+    "@abhaykumar01234/shadowizard": "^1.1.5",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
