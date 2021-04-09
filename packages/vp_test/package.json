@@ -1,6 +1,6 @@
 {
   "name": "@abhaykumar01234/vp_test",
-  "version": "1.1.6",
+  "version": "1.1.7",
   "dependencies": {
     "@abhaykumar01234/shadowizard": "^1.1.6",
     "@testing-library/jest-dom": "^5.11.4",
